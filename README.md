@@ -2,6 +2,8 @@
 
 This project is a simple social network API that allows users to create accounts, make friends with other users, post their thoughts, and react to other users' thoughts.
 
+(Click here for the video demonstration)[https://watch.screencastify.com/v/JMqli8rxdTNbyGOgrEpn]
+
 ## Installation
 
 To install the dependencies for this project, run:
