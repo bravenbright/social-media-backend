@@ -1,0 +1,22 @@
+{
+  "name": "social-media-backend",
+  "version": "1.0.0",
+  "description": "Mongoose and Express backend for a social media platform.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "seed": "node db/seeds/seeder.js"
+  },
+  "author": "Brigita Biederman",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
